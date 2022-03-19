@@ -20,7 +20,7 @@ bio: My research interests include distributed robotics, mobile computing and pr
 interests:
 - Travel behaviors & activity space
 - Human mobility & urban dynamics
-- Geographic big data analytics and mining
+- Geographic big data analytics
 
 # Education to show in About widget
 education:
