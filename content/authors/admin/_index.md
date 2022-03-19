@@ -40,12 +40,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '/#contact'
-- icon: Researchgate
-  icon_pack: fab
-  link: https://www.researchgate.net/profile/Jian-Liu-99
-- icon: graduation-cap  # Alternatively, use `ORCID` icon from `ai` icon pack
+- icon: graduation-cap  # Alternatively, use `Researchgate` icon from `ai` icon pack
   icon_pack: fas
-  link: https://orcid.org/0000-0001-9210-6766
+  link: https://www.researchgate.net/profile/Jian-Liu-99
 - icon: github
   icon_pack: fab
   link: https://github.com/Felix24liu
