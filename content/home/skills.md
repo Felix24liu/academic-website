@@ -4,12 +4,12 @@
 widget: featurette
 
 # This file represents a page section.
-headless: False
+headless: true
 
 # Order that this section appears on the page.
 weight: 30
 
-title: Skills
+title:
 subtitle:
 
 # Showcase personal skills or business features.
@@ -19,15 +19,15 @@ feature:
 - description: 90%
   icon: r-project
   icon_pack: fab
-  name: R
-- description: 100%
+  name: Python
+- description:
   icon: chart-line
   icon_pack: fas
   name: Statistics
-- description: 10%
+- description:
   icon: camera-retro
   icon_pack: fas
-  name: Photography
+  name: GIS
 
 # Uncomment to use emoji icons.
 #- icon: ':smile:'
