@@ -29,7 +29,7 @@ content:
   phone: +86 15801151683
   address:
     street: No.105 West 3rd Ring Road North 
-    city: Stanford
+    city: Beijing
     region: Beijing, China
     postcode: '100048'
     country: China
